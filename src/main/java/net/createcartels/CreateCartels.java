@@ -1,5 +1,7 @@
 package net.createcartels;
 
+import net.createcartels.register.modBlock;
+import net.createcartels.register.modItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -20,5 +22,7 @@ public class CreateCartels implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		modItems.declareItemReg();
+		modBlock.declareBlockReg();
 	}
 }
