@@ -1,6 +1,7 @@
 package net.createcartels.register;
 
 import net.createcartels.CreateCartels;
+import net.createcartels.itemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
