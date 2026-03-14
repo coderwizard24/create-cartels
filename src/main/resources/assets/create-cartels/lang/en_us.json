@@ -1,5 +1,6 @@
 {
-  "item.create-cartels.pure_coke": "Pure Coke",
+  "item.create-cartels.pure_coke": "Coke",
   "itemgroup.create-cartels.cartels_group": "Create: Cartels",
-  "item.create-cartels.coca_plant": "Coca Plant"
+  "item.create-cartels.coca_plant": "Coca Plant",
+  "block.create-cartels.coke_block": "Block of Coke"
 }

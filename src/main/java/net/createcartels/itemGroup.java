@@ -21,6 +21,7 @@ public class itemGroup {
 
                 entries.add(modItems.PURE_COKE);
                 entries.add(modItems.COCA_PLANT);
+                entries.add(modBlock.COKE_BLOCK);
 
 
 
