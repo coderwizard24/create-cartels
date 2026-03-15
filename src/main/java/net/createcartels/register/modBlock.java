@@ -1,6 +1,7 @@
 package net.createcartels.register;
 
 import net.createcartels.CreateCartels;
+import net.createcartels.customBlocks.distibutionBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -13,6 +14,9 @@ import net.minecraft.util.Identifier;
 
 public class modBlock {
     public static final Block COKE_BLOCK = registerBlock("coke_block", new Block(FabricBlockSettings.copyOf(Blocks.HAY_BLOCK)));
+
+    public static final Block DISTRIBUTION_BLOCK = registerBlock("distribution_block",
+            new distibutionBlock(FabricBlockSettings.copyOf(Blocks.SMITHING_TABLE)));
 
 
     private static Block registerBlock(String name, Block block){

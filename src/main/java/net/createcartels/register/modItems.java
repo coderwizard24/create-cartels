@@ -16,6 +16,7 @@ public class modItems {
 
     public static final Item PURE_COKE = registerItem("pure_coke", new Item(new FabricItemSettings()));
     public static final Item COCA_PLANT = registerItem("coca_plant", new Item(new FabricItemSettings()));
+    public static final Item DERP_TOTEM = registerItem("derp_totem", new Item(new FabricItemSettings()));
 
 
     private static void addToGroup(FabricItemGroupEntries entries){

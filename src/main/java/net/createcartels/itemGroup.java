@@ -22,8 +22,8 @@ public class itemGroup {
                 entries.add(modItems.PURE_COKE);
                 entries.add(modItems.COCA_PLANT);
                 entries.add(modBlock.COKE_BLOCK);
-
-
+                entries.add(modItems.DERP_TOTEM);
+                entries.add(modBlock.DISTRIBUTION_BLOCK);
 
             })
             .build());

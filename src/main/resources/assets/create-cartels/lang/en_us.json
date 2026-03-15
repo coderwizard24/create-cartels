@@ -2,5 +2,7 @@
   "item.create-cartels.pure_coke": "Coke",
   "itemgroup.create-cartels.cartels_group": "Create: Cartels",
   "item.create-cartels.coca_plant": "Coca Plant",
-  "block.create-cartels.coke_block": "Block of Coke"
+  "block.create-cartels.coke_block": "Block of Coke",
+  "item.create-cartels.derp_totem": "Derp Totem",
+  "block.create-cartels.distribution_block": "Distribution Block"
 }

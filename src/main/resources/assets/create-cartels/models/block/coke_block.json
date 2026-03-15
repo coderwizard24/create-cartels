@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_column_horizontal",
   "textures": {
-    "top": "create-cartels/block/coke_block_top",
-    "bottom": "create-cartels/block/coke_block_top",
-    "west": "create-cartels/block/coke_block_side",
-    "east": "create-cartels/block/coke_block_side",
-    "north": "create-cartels/block/coke_block_side",
-    "south": "create-cartels/block/coke_block_side"
+    "end": "create-cartels:block/coke_block_top",
+    "side": "create-cartels:block/coke_block_side"
   }
-
 }
