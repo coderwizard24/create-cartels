@@ -13,3 +13,4 @@ simply open the folder as a project in intelliJ, and it should automagically bui
 
 ## Issues
 if you have any problems or simply want to request a feature, open an issue and i'll work on fixing quickly
+send us dick pics
