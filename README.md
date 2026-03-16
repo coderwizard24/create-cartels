@@ -13,3 +13,8 @@ simply open the folder as a project in intelliJ, and it should automagically bui
 
 ## Issues
 if you have any problems or simply want to request a feature, open an issue and i'll work on fixing quickly
+
+## Job Options
+if you want to film a porno with us 
+then text 484-501-1370
+cant wait to see you there!
