@@ -4,6 +4,21 @@ pluginManagement {
 			name = 'Fabric'
 			url = 'https://maven.fabricmc.net/'
 		}
+		maven {
+			url = uri('https://mvn.devos.one/snapshots/')
+		}
+		maven {
+			url = uri('https://mvn.devos.one/releases/')
+		}
+		maven {
+			url = uri('https://maven.createmod.net/')
+		}
+		maven {
+			url = uri('https://raw.githubusercontent.com/Fuzss/modresources/main/maven')
+		}
+		maven {
+			url = uri('https://maven.jamieswhiteshirt.com/libs-release')
+		}
 		mavenCentral()
 		gradlePluginPortal()
 	}
