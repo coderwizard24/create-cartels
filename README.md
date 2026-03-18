@@ -1,7 +1,7 @@
 # Create: Cartels
 
 ## Descripton
-This mod adds many cartel related items and features such as the ability to distribute and sell your product
+This mod adds many cartel related items and features such as the ability to distribute and sell your product. This project is currently a work in progress.
 
 ## Developing
 ### Using IntelliJ IDEA
@@ -14,3 +14,5 @@ simply open the folder as a project in intelliJ, and it should automagically bui
 ## Issues
 if you have any problems or simply want to request a feature, open an issue and i'll work on fixing quickly
 
+## Credits
+All textures and models used in this mod created by kingmak256232, all rights reserved
